@@ -1,2 +1,3 @@
 # Hello-World
-my first repo
+My First Repo
+I am Testing GIT-HUB
